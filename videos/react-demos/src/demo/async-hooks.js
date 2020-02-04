@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-
+//  very soon you will learn that you are stupid
 function useGiphy(query) {
   const [results, setResults] = useState([]);
   const [loading, setLoading] = useState(false);
